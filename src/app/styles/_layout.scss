@@ -1,0 +1,33 @@
+@import "media";
+
+.page {
+  padding: 4px;
+
+  @include S {
+    padding: 8px;
+  }
+
+  @include M {
+    padding: 16px;
+  }
+
+  @include L {
+    padding: 20px;
+  }
+}
+
+.content {
+  padding: 4px;
+
+  @include S {
+    padding: 8px;
+  }
+
+  @include M {
+    padding: 16px;
+  }
+
+  @include L {
+    padding: 20px;
+  }
+}
