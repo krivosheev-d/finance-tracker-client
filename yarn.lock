@@ -1742,6 +1742,11 @@ pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
+primevue@^3.28.0:
+  version "3.28.0"
+  resolved "https://registry.yarnpkg.com/primevue/-/primevue-3.28.0.tgz#bc16ef1163477e82b9c4a2b4f08d7959bd462050"
+  integrity sha512-yLHvmtTUvO4znfQqcOYHO8H/l0sBHqfvzPAhu4rKNSRjyrj/KO1cP0S+1aa5zGsspaKxXfi2bhhzwSDD0xXwgA==
+
 proto-list@~1.2.1:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/proto-list/-/proto-list-1.2.4.tgz#212d5bfe1318306a420f6402b8e26ff39647a849"
