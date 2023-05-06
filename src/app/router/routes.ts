@@ -34,11 +34,6 @@ const routes = [
     name: 'profile',
     component: () => import('~/pages/ProfilePage.vue'),
   },
-  {
-    path: '/:pathMatch(.*)*',
-    name: 'not-found',
-    component: () => import('~/pages/PageNotFound.vue'),
-  },
 ];
 
 export default routes;
