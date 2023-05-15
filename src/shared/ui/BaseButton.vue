@@ -1,4 +1,6 @@
 <script lang="ts" setup>
+// https://primevue.org/button/#basic
+
 import Button from 'primevue/button';
 import type { ButtonProps } from 'primevue/button/Button';
 
